@@ -7,7 +7,7 @@
 
 ## Установка
 Для работы нужен [AutoHotKeys](https://www.autohotkey.com) \
-Сами бинды [MW tickets](/MW tickets.ahk?raw=true) \
+Сами бинды [MW_tickets](/MW_tickets.ahk?raw=true) \
 
 ## Настройка
 Дальше нажимаем пкм по бинду в открытом окне нажимаем edit script \
