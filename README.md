@@ -9,7 +9,7 @@
 ## Установка
 Для работы нужен [AutoHotKeys](https://www.autohotkey.com) \
 Сами бинды [MW_tickets](/MW_tickets.ahk?raw=true) \
-Бинды архитекторов [MW_tickets_arh](/MW tickets_arch.ahk?raw=true)
+Бинды архитекторов [MW_tickets_arh](/MW_tickets_arch.ahk?raw=true)
 
 ## Настройка
 Дальше нажимаем пкм по бинду в открытом окне нажимаем edit script \
